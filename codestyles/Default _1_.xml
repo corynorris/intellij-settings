@@ -1,9 +1,0 @@
-<code_scheme name="Default (1)">
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
-  <codeStyleSettings language="TypeScript">
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-  </codeStyleSettings>
-</code_scheme>
