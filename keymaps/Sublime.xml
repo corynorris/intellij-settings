@@ -7,19 +7,35 @@
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
