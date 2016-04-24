@@ -1,5 +1,9 @@
 <keymap version="1" name="Sublime" parent="Default for XWin">
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
@@ -19,6 +23,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoNextError" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -27,6 +32,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RemoteHost.NewRemoteItem" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
